@@ -1,0 +1,22 @@
+.parallax-image {
+    opacity: 0.9;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.img-1 {
+    background-image: url("sprites/165621-svet-etap-dizajn-grafika-vizualnyj_effekt_osveshheniya-3840x2160.jpg");
+    height: 1000px;
+}
+
+.img-2 {
+    background-image: url("sprites/165638-kedy-bashmak-internet_magazin-odezhda-nike-3840x2160.jpg");
+    height: 1000px;
+}
+
+.img-3 {
+    background-image: url("sprites/165643-voda-oblako-zhidkiy-zhidkost-morskaya_biologiya-3840x2160.jpg");
+    height: 1000px;
+}
